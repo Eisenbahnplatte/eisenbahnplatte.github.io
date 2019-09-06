@@ -18,7 +18,7 @@
 
 <#this> a foaf:Person ;
 
-   foaf:name "Fabian Goetz";
+   foaf:name "Eisenbahnplatte";
 
 cert:key [
       a cert:RSAPublicKey;
