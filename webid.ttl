@@ -19,6 +19,10 @@
 <#this> a foaf:Person ;
 
    foaf:name "Eisenbahnplatte";
+   foaf:img "https://eisenbahnplatte.github.io/eisenbahnplatte.jpeg";
+   foaf:gender "male";
+   foaf:geekcode "GMU GCS s: d? !a L++ PS+++ PE- G h";
+   foaf:firstname "Fabian";
 
 cert:key [
       a cert:RSAPublicKey;
