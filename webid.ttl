@@ -1,24 +1,17 @@
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
 @prefix cert: <http://www.w3.org/ns/auth/cert#> .
-
 @prefix rdfs: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 
 
-
 <> a foaf:PersonalProfileDocument ;
-
    foaf:maker <#this> ;
-
    foaf:primaryTopic <#this> .
-
 
 
 <#this> a foaf:Person ;
    foaf:name "Fabian";
-   foaf:img "https://eisenbahnplatte.github.io/eisenbahnplatte.jpeg";
+   foaf:img <https://eisenbahnplatte.github.io/eisenbahnplatte.jpeg>;
    foaf:gender "male";
    foaf:geekcode "GMU GCS s: d? !a L++ PS+++ PE- G h";
 
