@@ -12,8 +12,8 @@
 <#this> a foaf:Person ;
    a dbo:DBpedian;
    foaf:name "Fabian";
+   foaf:account <https://github.com/Eisenbahnplatte> ;
    foaf:img <https://eisenbahnplatte.github.io/eisenbahnplatte.jpeg>;
-   foaf:gender "male";
    foaf:geekcode "GMU GCS s: d? !a L++ PS+++ PE- G h";
 
 cert:key [
